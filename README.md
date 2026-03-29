@@ -35,9 +35,9 @@
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezemastro\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezemastro&theme=nord_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezemastro\&layout=compact\&theme=tokyonight\&cache_seconds=1800)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezemastro&theme=nord_dark)
 
 ---
 
